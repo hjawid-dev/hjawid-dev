@@ -14,6 +14,3 @@ Turns a short brief with copy and images into a product landing page for five ma
 
 **[support-triage](https://github.com/hjawid-dev/support-triage)**
 Sorts customer emails from five markets, flags the ones that need a person, and drafts replies from the store policy. Includes a test set that measures accuracy and cost per email.
-
-**[logic-test-trainer](https://github.com/hjawid-dev/logic-test-trainer)**
-A practice tool for the matrix logic tests used in hiring. It generates unlimited puzzles, adapts the difficulty to your answers and names the mistake behind each wrong answer. Checked by a suite that generates 12,000 puzzles per run.
